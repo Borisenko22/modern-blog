@@ -1,7 +1,7 @@
 import React from 'react';
 
 const FeaturedPosts: React.FC = () => (
-  <section id="featured-posts" className="py-5">
+  <section id="featured-posts">
     <div className="container">
       <div className="row mb-5">
         <div className="col-12">
